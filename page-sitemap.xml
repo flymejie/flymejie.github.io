@@ -15,14 +15,14 @@
     </url>
     
     <url>
-        <loc>http://www.flymejie.club/categories/</loc>
+        <loc>http://www.flymejie.club/tags/</loc>
         <lastmod>2018-12-17T02:17:34.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.flymejie.club/tags/</loc>
+        <loc>http://www.flymejie.club/categories/</loc>
         <lastmod>2018-12-17T02:17:34.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
